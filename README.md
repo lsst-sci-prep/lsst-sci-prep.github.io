@@ -1,1 +1,1 @@
-# lsst-sci-prep.github.io
+# Website of the Preparing for Astrophysics with LSST Program
