@@ -8,7 +8,14 @@
     {% seo %}
   </head>
   <body>
-    {% include navigation.html %}
-    {{ content }}
+    <header>
+      Preparing for Astrophysics with LSST
+    </header>
+    <section>
+      {% include navigation.html %}
+      <article>
+        {{ content }}
+      </article>
+    </section>
   </body>
 </html>
