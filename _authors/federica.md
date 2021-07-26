@@ -3,6 +3,7 @@ short_name: federica
 name: Federica Bianco
 position: TVS Co-chair
 institution: University of Delaware
+list: 2
 ---
 ![Federica Bianco](images/federica.png){:class="img-responsive"}
 

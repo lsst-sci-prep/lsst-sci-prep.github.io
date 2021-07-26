@@ -3,6 +3,7 @@ short_name: peregrine
 name: Peregrine McGehee
 position: SMWLV Co-chair
 institution: College of the Canyons
+list: 6
 ---
 ![Peregrine McGehee](images/PeregrineMcGehee.jpeg){:class="img-responsive"}
 

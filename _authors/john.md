@@ -3,6 +3,7 @@ short_name: john
 name: John Gizis
 position: SMWLV Co-chair
 institution: University of Delaware
+list: 7
 ---
 ![John Gizis](images/Gizis_John_web-2.jpg){:class="img-responsive"}
 

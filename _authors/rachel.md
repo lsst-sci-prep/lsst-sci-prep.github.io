@@ -3,6 +3,7 @@ short_name: rachel
 name: Rachel Street
 position: TVS Co-chair
 institution: Las Cumbres Observatory (LCO)
+list: 1
 ---
 ![Rachel Street](images/rachel.jpg){:class="img-responsive"}
 

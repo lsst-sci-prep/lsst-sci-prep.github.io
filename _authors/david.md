@@ -3,6 +3,7 @@ short_name: david
 name: David Trilling
 position: SSSC Co-chair
 institution: Northern Arizona University
+list: 4
 ---
 ![David Trilling](images/trilling_headshot.jpg){:width="300px"}{:class="img-responsive"}
 

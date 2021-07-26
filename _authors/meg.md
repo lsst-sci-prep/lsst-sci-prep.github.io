@@ -3,6 +3,7 @@ short_name: meg
 name: Megan Schwamb
 position: SSSC Co-chair
 institution: Queen's University, Belfast
+list: 3
 ---
 ![Megan Schwamb](images/meg.png){:class="img-responsive"}
 

@@ -3,6 +3,7 @@ short_name: will
 name: Will Clarkson
 position: SMWLV Co-chair
 institution: University of Michigan-Dearborn
+list: 5
 ---
 ![Will Clarkson](images/will.png){:class="img-responsive"}
 
