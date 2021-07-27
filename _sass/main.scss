@@ -82,3 +82,23 @@ footer {
     height: auto;
   }
 }
+
+.grid-container2 {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+
+}
+.grid-container2 > div {
+  text-align: left;
+  box-sizing: border-box;
+  border: 1px solid #aaa;
+  padding: 20px 20px;
+}
+
+page-title {
+  text-align: left;
+  font-size: 35px;
+  color: blue;
+}
