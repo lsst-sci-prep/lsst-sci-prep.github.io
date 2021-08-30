@@ -53,6 +53,23 @@ li a:hover {
   color: white;
 }
 
+cl {
+   list-style: none;
+   margin-left: 0;
+   padding-left: 1em;
+   text-indent: -1em;
+}
+
+cl li {
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+cl li:before {
+  content: "☐";
+  padding-right: 5px;
+}
+
 article {
   float: left;
   padding: 20px;
@@ -145,4 +162,17 @@ section-title {
 
 .active:after {
   content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+table, th, td {
+  padding: 15px;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd:before {
+    content: "\2023";
+    padding-right: 5px;
 }
