@@ -5,15 +5,13 @@ source "https://rubygems.org"
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
-gem "jekyll"
-#gem "github-pages", "~> 215", group: :jekyll_plugins
+
+gem "jekyll", "~> 4.2"
+
+gem "jekyll-feed", "~> 0.15.1"
+
+gem "jekyll-sitemap", "~> 1.4"
+
+gem "jekyll-seo-tag", "~> 2.7"
 
 gem "webrick", "~> 1.7"
-#gem "terminal-table"
-#gem "jekyll-sass-converter"
-
-group :jekyll_plugins do
-  gem 'jekyll-sitemap'
-  gem 'jekyll-feed'
-  gem 'jekyll-seo-tag'
-end
