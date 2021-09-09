@@ -1,0 +1,31 @@
+---
+layout: default
+title: Program Elements
+---
+<page-title>Kickstarter Grants FAQ</page-title>
+  <button type="button" class="collapsible">Can a person be involved with more than one proposal?</button>
+  <div class="content">
+    <p>Yes.</p>
+  </div>
+  <button type="button" class="collapsible">Are Science Collaboration chairs and group/task force coordinators eligible to apply?</button>
+  <div class="content">
+    <p>Absolutely!  The program is designed to encourage all contributions to Science Collaborations, since
+    they benefit the wider community.</p>
+  </div>
+
+<script>
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+</script>
